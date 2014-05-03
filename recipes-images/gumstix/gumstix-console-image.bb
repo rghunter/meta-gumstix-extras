@@ -16,7 +16,6 @@ FIRMWARE_INSTALL = " \
 
 TOOLS_INSTALL = " \
   alsa-utils \
-  systemd-analyze \
   cpufrequtils \
   grep \
   gzip \
